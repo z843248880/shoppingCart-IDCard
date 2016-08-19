@@ -1,6 +1,6 @@
 # shoppingCart-IDCard
 - atmLog.py record the atm operation log.
-* * *
+* * * *
 - authCode.py create a authcode.
 * * *
 - byeAndAccount.py judge the account if have enough money.
