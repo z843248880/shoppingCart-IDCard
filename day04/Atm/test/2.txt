@@ -1,4 +1,0 @@
-[pthread(id=5234, user_system_time=9.2891),
- pthread(id=5235, 为二位五_time=0.0),
- pthread(id=5236额外确认tem_time=0.0),
- pthread(id=5237, usfdf0.0707, system_time=1.1)]
