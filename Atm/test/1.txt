@@ -1,0 +1,4 @@
+[pthread(id=5234, user_system_time=9.2891),
+ pthread(id=5235, u system_time=0.0),
+ pthread(id=5236, user_timystem_time=0.0),
+ pthread(id=5237, user_time=0.0707, system_time=1.1)]
