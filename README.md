@@ -1,4 +1,5 @@
 # shoppingCart-IDCard
+## all py file in the ATM/core;the ATM program's gate is ATM/core/main.py;the shoppingcart program's gate is ATM/scmain.py
 * * *
 - atmLog.py record the atm operation log.
 - authCode.py create a authcode.
